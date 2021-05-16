@@ -1,0 +1,1 @@
+INSERT INTO posts (title, messageBody, author, date) VALUES ("My first Blog Post", "Hello there", "Alex Massin")
